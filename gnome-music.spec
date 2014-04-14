@@ -1,11 +1,11 @@
 Summary:	Default audio player application for GNOME 3
 Name:		gnome-music
-Version:	3.12.0
+Version:	3.12.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-music/3.12/%{name}-%{version}.tar.xz
-# Source0-md5:	85e71341fc8dce40149c03ca82d067ad
+# Source0-md5:	1e08459389d9d627025b31a2229e042a
 URL:		https://live.gnome.org/Design/Apps/Documents
 BuildRequires:	autoconf
 BuildRequires:	automake
